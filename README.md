@@ -10,7 +10,7 @@ All solutions are implemented in Python, mostly using only NumPy and standard li
 ## 🌐 Topics Covered
 
 The project is organized into the following folders:
-'''
+···
 Deep-ML/
 ├── Computer_Vision/ # Image processing, kernels, convolution
 ├── Deep_Learning/ # Activation functions, forward/backpropagation
@@ -18,7 +18,7 @@ Deep-ML/
 ├── Machine_Learning/ # Regression, classification, evaluation metrics
 ├── NLP/ # Bag-of-words, TF-IDF, tokenization
 ├── easy/, medium/, hard/  # Problems grouped by difficulty (from Deep-ML)
-'''
+···
 
 ## 🔧 Requirements
 - Python 3.8+
