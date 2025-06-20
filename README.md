@@ -16,7 +16,7 @@ Deep-ML/
 ├── Deep_Learning/        # Activation functions, forward/backpropagation
 ├── Linear_Algebra/       # Matrix operations, vector transformations
 ├── Machine_Learning/     # Regression, classification, evaluation metrics
-├── NLP/                  # Bag-of-words, TF-IDF, tokenization
+├── NLP/                  # GPT2_Text_Generation, TF-IDF
 ├── easy/, medium/, hard/ # Problems grouped by difficulty (from Deep-ML)
 ```
 
