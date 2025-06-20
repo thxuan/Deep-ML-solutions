@@ -12,7 +12,7 @@ All solutions are implemented in Python, mostly using only NumPy and standard li
 The project is organized into the following folders:
 ```
 Deep-ML/
-├── Computer_Vision/      # Image processing, kernels, convolutions
+├── Computer_Vision/      
 ├── Deep_Learning/        # Activation functions, forward/backpropagation
 ├── Linear_Algebra/       # Matrix operations, vector transformations
 ├── Machine_Learning/     # Regression, classification, evaluation metrics
